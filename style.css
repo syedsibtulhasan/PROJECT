@@ -1,0 +1,221 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+}
+#navname{
+   
+     margin-right: 90px;
+    color:aqua;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 250px;
+    border-radius: 5px;
+    font-size: 45px;
+}
+#navbar {
+    width: 1920px;
+    height: 50px;
+    text-align: right;
+    color: rgb(91, 26, 26);
+}
+
+.Portfolio {
+    margin-right: 90px;
+    color: aliceblue;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 100px;
+    mar
+}
+
+
+#hello {
+    margin-top: 230px;
+    padding-left: 300px;
+    text-align: left;
+    margin-bottom: 0;
+    color: aqua
+}
+
+#name {
+    font-size: 50px;
+    color: whitesmoke;
+    padding-left: 300px;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#profession {
+    font-size: 25x;
+    padding-left: 400px;
+    text-align: center;
+    margin-top: 1px;
+    max-width: 20%;
+    margin-left: 50px;
+    color: aqua;
+
+
+}
+
+.intro {
+    text-align: left;
+    color: aliceblue;
+    margin-top: 40px;
+    padding-left: 300px;
+    padding-right: 700px;
+    margin-bottom: 200px;
+}
+* body{
+    background-color: rgb(43, 43, 43);
+}
+
+/* education */
+#mainheading {
+    margin-top: 550px;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 80px;
+    color: aqua;
+
+}
+
+.edu {
+    margin-left: 170px;
+    margin-top:4px;
+    margin-right: 700px;
+
+}
+
+.h3sub {
+    text-decoration: underline;
+    color: aquamarine;
+}
+
+.h4ins {
+    padding-left: 100px;
+    color: aquamarine;
+}
+
+.paragraph {
+    color: aliceblue;
+
+}
+
+
+/* project section */
+#projectheading {
+    font-size: 70px;
+    text-align: center;
+    margin-top: 100px;
+    color: aqua;
+    text-decoration: underline;
+}
+
+#project1 {
+    border: 3px solid rgb(92, 92, 92);
+    margin-left: 80px;
+    margin-right: 900px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: aliceblue;
+    border-radius: 30px;
+
+}
+
+#project2 {
+    margin-top: 100px;
+    border: 3px solid rgb(92, 92, 92);
+    margin-left: 200px;
+    margin-right: 700px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: aliceblue;
+    border-radius: 30px;
+
+}
+
+#project3 {
+    margin-top: 100px;
+    border: 3px solid rgb(92, 92, 92);
+    margin-left: 300px;
+    margin-right: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    color: aliceblue;
+    border-radius: 30px;
+
+}
+
+.link {
+    text-decoration: none;
+    color:cadetblue;
+    margin-left: 200px;
+}
+
+.headingpro {
+    text-align: center;
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+/* skils section */
+.skills-container {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 500px;
+}
+
+#skillssection1,#skillssection2,#skillssection3 {
+    display: inline-block;
+    width: 400px;
+    background-color: rgb(149, 149, 149);
+    padding: 20px;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    margin-left: 60px;
+}
+
+#skillssection1 h3,#skillssection2 h3,#skillssection3 h3 {
+    color: rgb(232, 232, 232);
+    text-align: center;
+}
+
+#skillssection1 li,#skillssection2 li,#skillssection3 li {
+    background-color: rgb(212, 212, 212);
+    margin-top: 5px;
+    padding: 8px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* cotact section */
+
+#headingcontact {
+    font-size: 70px;
+    text-align: center;
+    margin-top: 120px;
+    color: aqua;
+
+}
+
+.formtd {
+    margin-top: 40px;
+    margin-left: 70px;
+    text-align: center;
+
+}
+
+button {
+    background-color: rgb(114, 114, 114);
+    
+}
+
+.field {
+    background-color: rgb(51, 51, 51);
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(102, 102, 102); 
+}
+
